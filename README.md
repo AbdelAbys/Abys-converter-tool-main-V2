@@ -19,3 +19,4 @@ To run the app, you must have 'Python' installed on your machine. You will also 
 
 - 'Open File': to open and convert one file only.
 - 'Open Dir': to open and convert a multiple files at the same directory will be converted in one click.
+In order to convert and to save the results, you click on "Convert & Save" button. You need to create your folder in which you want to save the results and then click on " sélectionner un dossier ".
